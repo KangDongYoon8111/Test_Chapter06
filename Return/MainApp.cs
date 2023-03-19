@@ -27,7 +27,7 @@ namespace Return
         }
         static void Main(string[] args)
         {
-            Console.WriteLine($"10번째 피보나치 수 : {Fibonacci(10)}");
+            Console.WriteLine($"10번째 피보나치 수 : {Fibonacci(5)}");
 
             PrintProfile("", "123-4567");
             PrintProfile("박상현", "456-1230");
